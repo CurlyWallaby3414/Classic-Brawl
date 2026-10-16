@@ -1,5 +1,5 @@
 {
-    "MongoConnectionURL": "mongodb+srv://telelaevila_db_user:IGYX6BNwxrJ3rq4L@cluster0.ynci1xb.mongodb.net/?compressors=zlib",
+    "MongoConnectionURL": "mongodb://telelaevila_db_user:IGYX6BNwxrJ3rq4L@ac-frxf5vy-shard-00-00.ynci1xb.mongodb.net:27017,ac-frxf5vy-shard-00-01.ynci1xb.mongodb.net:27017,ac-frxf5vy-shard-00-02.ynci1xb.mongodb.net:27017/?ssl=true&replicaSet=atlas-2o8i52-shard-0&authSource=admin",
     "UpgradesEnabled": false,
     "ClubWarsEnabled": false,
     "StarPoints": 5000,
