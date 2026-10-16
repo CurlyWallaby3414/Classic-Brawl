@@ -1,5 +1,5 @@
 {
-    "MongoConnectionURL": "mongodb+srv://telelaevila_db_user:IGYX6BNwxrJ3rq4L@cluster0.ynci1xb.mongodb.net/",
+    "MongoConnectionURL": "mongodb+srv://telelaevila_db_user:IGYX6BNwxrJ3rq4L@cluster0.ynci1xb.mongodb.net/?compressors=zlib",
     "UpgradesEnabled": false,
     "ClubWarsEnabled": false,
     "StarPoints": 5000,
